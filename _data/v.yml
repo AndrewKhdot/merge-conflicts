@@ -1,0 +1,10 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# BooksAndMovies
+- project: BooksAndMovies
+  role: Developer
+  duration: January 2020 &mdash; Present
+  url: "https://github.com/AndrewKhdot/FirstApp"
+  description: Application for looking for interesting books and films and creating your own film library and book library
+
