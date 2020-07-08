@@ -2,9 +2,9 @@
 # comment out the urls if you do not wish to display them
 
 - organization: HomeSoft
-  role: Director
+  role: Developer
   year: 2020 &mdash; Present
   url: http://HomeSoft.by/
-  summary: I'm developing my own site for looking for intresting books or films.
+  summary: I develope my a website for book and film searches.
 
 
